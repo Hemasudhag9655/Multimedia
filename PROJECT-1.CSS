@@ -1,0 +1,99 @@
+.header{
+  margin-top: -15px;
+display: flex;
+}
+.nav {
+   padding: 12px;
+    background-color: #866a6a;
+   }
+.nav a{
+      padding: 12px 50px;
+      color: #f2f2f2;
+      text-decoration: none;
+      font-size: 17px;
+}
+.nav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+.signinbtn{
+   padding: 10px;
+}
+button{
+  font-weight: bold;
+  float: right;
+  margin: 65px 10px -5px 210px;
+  background-color:#e0367a;
+  border-color: #e0367a;
+}
+input{
+  margin: 65px 10px -5px 65px;
+   width: 350px;
+  height: 40px;
+  border-radius: 25px;
+   border-block-color:black;
+   padding-left: 15px;
+   
+}
+
+.outer,.outer1,.outer3{
+ width: 100%
+ height= 100vh;
+ background: white;
+  display: flex;
+  flex-wrap: wrap;
+
+
+ flex-direction: row;
+}
+.inner
+{
+ background: white;
+ width: 270px;
+ height: 310px;
+ text-align: center;
+ padding: 25px 35p;
+
+}
+.simg{
+  margin-top: 10px;
+  border-radius: 98%;
+  border: 6px solid white;
+  margin-left: 10px;
+}
+audio{
+  width: 255px;
+  height: 30px;
+}
+.inner1,.inner2,.inner3,.inner4,.inner5,.inner6,.inner7,.movie2,.movie3,.movie4,.movie1
+{
+  background: white;
+ width: 270px;
+ height: 310px;
+ text-align: center;
+margin-left: 1px;
+
+}
+h3,h4,h2{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+  color:rgb(96, 8, 37);
+}
+.visual,.full
+{ 
+  width: 100%
+ height= 100vh;
+ background: white;
+  display: flex;
+  flex-wrap: wrap;
+}
+.tour
+{
+   width: 270px;
+ height: 270px;
+  padding-left: 12px;
+}
+.food{
+   width: 270px;
+ height: 270px;
+  padding-left: 18px;
+}
